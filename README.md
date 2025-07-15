@@ -3,7 +3,7 @@
 A lightweight, Arduino library for reading light intensity (lux) from LDR (photoresistor) sensors using calibration constants.
 
 ---
-<img width="883" height="857" alt="image" src="https://github.com/user-attachments/assets/776e64f7-2e8e-427b-b654-4929feedfc5e" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/776e64f7-2e8e-427b-b654-4929feedfc5e" />
 
 ## 🌟 Features
 
