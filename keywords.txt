@@ -1,0 +1,5 @@
+XCR_LDR_init     KEYWORD1
+XCR_LDR_readRaw  KEYWORD1
+XCR_LDR_readVoltage KEYWORD1
+XCR_LDR_getLux   KEYWORD1
+XCR_LDR_t        KEYWORD2
